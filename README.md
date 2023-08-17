@@ -13,7 +13,13 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 End the program
 
 ### PROGRAM:
-  
+```
+import math
+l2=[10,6]
+l1=[4,2]
+d=math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
+print("{:.2f}".format(d))
+```  
 ### OUTPUT:
 ![Exp 1c](https://github.com/Divya110205/DISTANCE-BETWEEN-TWO-POINTS/assets/119404855/11efa44f-9154-435c-820e-43f5220abd00)
 
