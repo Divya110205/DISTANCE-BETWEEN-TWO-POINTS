@@ -14,6 +14,10 @@ End the program
 
 ### PROGRAM:
 ```
+#Program to find the distance between two points.
+#Developed by: DIVYA.A 
+#RegisterNumber:212222230034
+
 import math
 l2=[10,6]
 l1=[4,2]
