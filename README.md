@@ -1,5 +1,5 @@
-# DISTANCE-BETWEEN-TWO-POINTS
-
+# Ex 1c: DISTANCE-BETWEEN-TWO-POINTS
+## DATE: 23.08.23
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
